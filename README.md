@@ -1,6 +1,6 @@
 # VibrationalModes_Troisi_Compact
 
-Notebooks to calculate elastic,inelastic tranmission and currents for Troisi's method.
+Notebooks to calculate elastic,inelastic tranmission and currents with the method of Troisi et al.
 
 We use tensors to calculate Green's function calculations and currents to avoid loops. We found that our code is fast given the Hamiltonian of the scattering region is relatively small (20X20).
 
